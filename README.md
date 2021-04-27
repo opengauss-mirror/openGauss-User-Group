@@ -1,4 +1,4 @@
-# openGauss User Group
+## openGauss User Group
 openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性、最佳实践、运营进展等方向交流的开放性本地社区。
 
 # oGUG角色介绍
