@@ -8,5 +8,5 @@ Member：配合区域oGUG的日常运营，以用户身份产出技术内容、�
 Ambassador：通过布道的方式帮助他人了解或使用openGauss，并代表用户优化产品体验，增进其他用户对openGauss的了解。
 
 # 加入oGUG
-* ![输入图片说明](https://images.gitee.com/uploads/images/2021/0427/155608_e122fd98_9039100.jpeg "qrcode(1).jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0427/155608_e122fd98_9039100.jpeg "qrcode(1).jpg")
 * 链接：https://www.wjx.cn/vm/hUtnVcG.aspx
