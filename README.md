@@ -9,4 +9,4 @@ Ambassador：通过布道的方式帮助他人了解或使用openGauss，并代�
 
 # **加入oGUG** 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0427/155608_e122fd98_9039100.jpeg "qrcode(1).jpg")
-链接：https://www.wjx.cn/vm/hUtnVcG.aspx
+*链接：https://www.wjx.cn/vm/hUtnVcG.aspx
