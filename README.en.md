@@ -1,36 +1,13 @@
-# openGauss-User-Group
 
-#### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+ **openGauss User Group** 
+<br>&nbsp;&nbsp;&nbsp;openGauss User Group (oGUG for short) is an open local communication community for openGauss users to communicate around technical characteristics, practical application and operational progress.
 
-#### Software Architecture
-Software architecture description
+ **Introduction oGUG role** 
+  <br>&nbsp;&nbsp;&nbsp;OGUG consists of three roles: Organizer, Member and Ambassador:
+* Organizer:oGUG regional leader, responsible for coordinating the development and activity planning of oGUG in this region;
+* Member: cooperate with the daily operation of regional oGUG, produce technical content as a user, participate in activities and promote openGauss.
+* Ambassador: Help others understand or use openGauss,optimize product experience on behalf of users, and enhance other users understanding of openGauss.
 
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+ **Welcome to oGUG** 
+<br>&nbsp;Links:https://www.wjx.cn/vm/hUtnVcG.aspx
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0428/103912_23179272_7708058.png "OGUG报名码.png")
