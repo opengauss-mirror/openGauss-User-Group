@@ -12,8 +12,8 @@ openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性�
 * 链接：https://www.wjx.cn/vm/hUtnVcG.aspx
 
 ## 深圳用户组
-1.Organizer 海量数据 李景娥 lije@vastdata.com.cn
-2.Member 华为 朱彬  zhubin6@huawei.com
+（<br>）：1.Organizer 海量数据 李景娥 lije@vastdata.com.cn
+（<br>）：2.Member 华为 朱彬  zhubin6@huawei.com
 3.Member 海量数据 王铭玥	                         wangmy@vastdata.com.cn
 4.Ambassador 海量数据 林根	                 lingen@vastdata.com.cn
 5.Ambassador 华为 田文罡	                         tianwengang@huawei.com
