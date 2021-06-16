@@ -22,20 +22,20 @@ openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性�
 * Ambassador 视源股份 周俊	                 zhoujun@cvte.com
 
 ## 深圳用户组
-* 1.Organizer   江苏鲲鹏·昇腾生态创新中心 董亮	 gavin.dongliang@huawei.com
-* 2.Ambassador  南京唯优信息技术有限公司 吴瑞磊       wuruilei@willbingo.com	
-* 3.Ambassador  中软国际有限公司 李臻峰              lzfeng2008@aliyun.com	
-* 4.Member      个人开发者 党宏博                    yafeishiorcl@gmail.com
+* Organizer   江苏鲲鹏·昇腾生态创新中心 董亮	 gavin.dongliang@huawei.com
+* Ambassador  南京唯优信息技术有限公司 吴瑞磊       wuruilei@willbingo.com	
+* Ambassador  中软国际有限公司 李臻峰              lzfeng2008@aliyun.com	
+* Member      个人开发者 党宏博                    yafeishiorcl@gmail.com
   
 
 ## 北京用户组
-* 1.Organizer	北京鲲鹏联合创新中心 周志	         zhi.zhou@huawei.com
-* 2.Ambassador	云和恩墨 张皖川                   wanchuan.zhang@enmotech.com
-* 3.Ambassador	云和恩墨 姜殿斌                   dianbin.jiang@enmotech.com
-* 4.Ambassador	宝兰德	詹年科	                 nianke.zhan@bessystem.com
-* 5.Ambassador	SphereEx 张亮                    zhangliang@sphere-ex.com
-* 6.Ambassador	深信服	章明星	                 zhangmingxing@sangfor.com.cn
-* 7.Member	海量数据 余江	                 yujiang@vastdata.com.cn
-* 8.Member	云和恩墨 王潇                     xiao.wang@enmotech.com
+* Organizer	北京鲲鹏联合创新中心 周志	         zhi.zhou@huawei.com
+* Ambassador	云和恩墨 张皖川                   wanchuan.zhang@enmotech.com
+* Ambassador	云和恩墨 姜殿斌                   dianbin.jiang@enmotech.com
+* Ambassador	宝兰德	詹年科	                 nianke.zhan@bessystem.com
+* Ambassador	SphereEx 张亮                    zhangliang@sphere-ex.com
+* Ambassador	深信服	章明星	                 zhangmingxing@sangfor.com.cn
+* Member	海量数据 余江	                 yujiang@vastdata.com.cn
+* Member	云和恩墨 王潇                     xiao.wang@enmotech.com
 
 	
