@@ -21,7 +21,7 @@ openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性�
 * Ambassador 华为 熊小军	                 xiongxiaojun2@huawei.com
 * Ambassador 视源股份 周俊	                 zhoujun@cvte.com
 
-## 深圳用户组
+## 南京用户组
 * Organizer   江苏鲲鹏·昇腾生态创新中心 董亮	 gavin.dongliang@huawei.com
 * Ambassador  南京唯优信息技术有限公司 吴瑞磊       wuruilei@willbingo.com	
 * Ambassador  中软国际有限公司 李臻峰              lzfeng2008@aliyun.com	
@@ -37,5 +37,24 @@ openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性�
 * Ambassador	深信服	章明星	                 zhangmingxing@sangfor.com.cn
 * Member	海量数据 余江	                 yujiang@vastdata.com.cn
 * Member	云和恩墨 王潇                     xiao.wang@enmotech.com
+
+
+## 西安用户组
+* Organizer	陕西鲲鹏生态创新中心 王涛        545188@qq.com
+* Member	云和恩墨 刘珲	               hui.liu@enmotech.com
+* Member	云和恩墨 季亚斌                 yabin.ji@enmotech.com
+* Member	云和恩墨 姚前                   qian.yao@enmotech.com
+* Member	宝兰德 敬少飞                   shaofei.jing@dev.bessystem.com
+* Member	Gauss松鼠会 康阳                kangyang@huawei.com
+* Member	Gauss松鼠会 齐小丰              813304690@qq.com
+* Member	杭州沃趣科技 李春               pickup.li@woqutech.com
+* Ambassador	云和恩墨 张翠娉                 cuiping.zhang@enmotech.com
+* Ambassador	云和恩墨 郭欢                   huan.guo@enmotech.com
+* Ambassador	海量数据	石青	               shiqing_Elsa@163.com
+* Ambassador	中软国际	李杨	               liyang463@huawei.com
+
+
+
+
 
 	
