@@ -54,13 +54,22 @@ openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性�
 * Ambassador	中软国际	李杨	               liyang463@huawei.com
 
 ## 长沙用户组
-* Organizer	  湖南省鲲鹏生态创新中心	旷俊	   kuangjun1@huawei.com
-* Member            中南大学  奎晓燕	 	   xykui@csu.edu.cn
-* Member            湖南大学 	谭光华 	           guanghuatan@hnu.edu.cn
-* Member            湖南创星科技股份有限公司 姜赳赳	   77604885@qq.com
+* Organizer	    湖南省鲲鹏生态创新中心 旷俊	     kuangjun1@huawei.com
+* Member            中南大学  奎晓燕	 	     xykui@csu.edu.cn
+* Member            湖南大学 	谭光华 	             guanghuatan@hnu.edu.cn
+* Member            湖南创星科技股份有限公司 姜赳       77604885@qq.com
 * Member            中南勘测设计研究院有限公司 李勇	   liyong357@126.com
 * Ambassador        湖南省鲲鹏生态创新中心 孙德成	   sundecheng@huawei.com
 
 
-
-	
+## 杭州用户组
+* Organizer   浙江鲲鹏创新中心 钟启宏                            zhongqihong@huawei.com
+* Member      杭州沃趣科技股份有限公司首席架构师  李春            pickup.li@woqutech.com
+* Member      杭州沃趣科技股份有限公司 数据库团队负责人 杨禹航     yuh17@sina.com
+* Member      浩鲸智能 高级工程师 任壮壮                         770750140@qq.com
+* Member      浙江薄冰网络科技有限公司 蒋健                      jiangjian@zjbobingtech
+* Member      海量数据 赵健                                     zhaojian@vastdata.com.cn   
+* Member      中乘启数 唐成                                     tangcheng@csudata.com
+* Member      个人开发者  陈海                                  523228587@qq.com
+* Ambassador  华为 冯犇                                        fengben@huawei.com
+* Ambassador  华为 阙鸣健	                              quemingjian2@huawei.com
