@@ -87,3 +87,19 @@ openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性�
 * Member	甘肃紫光智能交通与控制技术有限公司	任小斌	rxbyes@163.com
 * Member	北京海量数据技术有限公司  姚婷	        yaoting@vastbase.com.cn
 * Member	北京海量数据技术有限公司  杨涛	        Yangtao@vastdata.com.cn
+
+## 重庆用户组
+* Organizer  重庆鲲鹏创新中心 游欣易        youxinyi@huawei.com 
+* Member 重通服数据库 黄经洲               1320336185@qq.com 
+* Member 云和恩墨 师庆栋                   qingdong.shi@enmotech.com 
+* Member 海量数据 杨红星                   xingxing2066@126.com 
+* Member 海量数据 彭向平                    ppsoula@163.com 
+* Member 重庆三峡银行股份有限公司 李辉       13638388182@139.com 
+* Member 重庆长安民生物流股份有限公司 邓辉   deng.h@139.com 
+* Ambassador 云和恩墨 胡毅                 446464087@qq.com 
+* Ambassador 云和恩墨 罗炳森               692162374@qq.com 
+* Ambassador 云和恩墨 李元鹏               yuanpeng.li@enmotech.com 
+* Ambassador 重庆思庄科技有限公司 郑全      zhengquan@cqsztech.com 
+* Ambassador 海量数据 陈浩                 chen31577@126.com 
+* Ambassador 重庆石油天然气交易中心 刘辉    liuh@chinacqpgx.com 
+* Ambassador 重庆大学 盛泳潘               shengyp2011@gmail.com 
