@@ -105,24 +105,24 @@ openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性�
 * Ambassador 重庆大学 盛泳潘               shengyp2011@gmail.com 
 
 ## 成都用户组
-Organizer	曾强	四川鲲鹏生态创新中心	zengqiang26@huawei.com
-Ambassador	俞翔	泰克教育	yuxiang@tech-lab.cn
-Ambassador	黄元霞	虚谷伟业	huangyuanxia@xugudb.com
-Ambassador	李真旭	云和恩墨	zhenxu.li@enmotech.com
-Member	佘兴彬	云和恩墨	xingbin.she@enmotech.com
-Member	陈少云	云和恩墨	shaoyun.chen@enmotech.com
-Member	杨明翰	云和恩墨	minghan.yang@enmotech.com
-Member	王涛	云和恩墨	Tao.wang@enmotech.com
-Member	孙久江	海量数据	sunjj@vastdata.com.cn
-Member	舒正英	海量数据	598546998@qq.com
-Member	熊小红	海量数据	xiongxh@vastdata.com.cn
-Member	甘丽	本原数据	li.gan@enmotech.com
-Member	陈泽	本原数据	ze.chen@enmotech.com
-Member	窦尧	兴业数字金融	3397860844@qq.com
-Member	胡娟	兴业数字金融	836583895@qq.com
-Member	刘牌	东方通 	2319492349@qq.com
-Member	熊灿灿	平安科技	xiongcc_1994@126.com
-Member	张钦	商鼎科技	10980903@qq.com
-Member	张国良	中银金科	44288252@qq.com
-Member	江龙滔	北京思斐软件	raigor.jiang@gmail.com
-Member	陈智明	成都海迪鑫华	2415252314@qq.com
+* Organizer	曾强	四川鲲鹏生态创新中心	zengqiang26@huawei.com
+* Ambassador	俞翔	泰克教育	yuxiang@tech-lab.cn
+* Ambassador	黄元霞	虚谷伟业	huangyuanxia@xugudb.com
+* Ambassador	李真旭	云和恩墨	zhenxu.li@enmotech.com
+* Member	佘兴彬	云和恩墨	xingbin.she@enmotech.com
+* Member	陈少云	云和恩墨	shaoyun.chen@enmotech.com
+* Member	杨明翰	云和恩墨	minghan.yang@enmotech.com
+* Member	王涛	云和恩墨	Tao.wang@enmotech.com
+* Member	孙久江	海量数据	sunjj@vastdata.com.cn
+* Member	舒正英	海量数据	598546998@qq.com
+* Member	熊小红	海量数据	xiongxh@vastdata.com.cn
+* Member	甘丽	本原数据	li.gan@enmotech.com
+* Member	陈泽	本原数据	ze.chen@enmotech.com
+* Member	窦尧	兴业数字金融	3397860844@qq.com
+* Member	胡娟	兴业数字金融	836583895@qq.com
+* Member	刘牌	东方通 	2319492349@qq.com
+* Member	熊灿灿	平安科技	xiongcc_1994@126.com
+* Member	张钦	商鼎科技	10980903@qq.com
+* Member	张国良	中银金科	44288252@qq.com
+* Member	江龙滔	北京思斐软件	raigor.jiang@gmail.com
+* Member	陈智明	成都海迪鑫华	2415252314@qq.com
