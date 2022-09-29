@@ -1,4 +1,4 @@
-## openGauss User Group
+﻿## openGauss User Group
 openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性、最佳实践、运营进展等方向交流的开放性本地社区。
 
 ## oGUG角色介绍
@@ -106,23 +106,40 @@ openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性�
 
 ## 成都用户组
 * Organizer	曾强	四川鲲鹏生态创新中心	zengqiang26@huawei.com
-* Ambassador	俞翔	泰克教育	yuxiang@tech-lab.cn
-* Ambassador	黄元霞	虚谷伟业	huangyuanxia@xugudb.com
-* Ambassador	李真旭	云和恩墨	zhenxu.li@enmotech.com
-* Member	佘兴彬	云和恩墨	xingbin.she@enmotech.com
-* Member	陈少云	云和恩墨	shaoyun.chen@enmotech.com
-* Member	杨明翰	云和恩墨	minghan.yang@enmotech.com
-* Member	王涛	云和恩墨	Tao.wang@enmotech.com
-* Member	孙久江	海量数据	sunjj@vastdata.com.cn
-* Member	舒正英	海量数据	598546998@qq.com
-* Member	熊小红	海量数据	xiongxh@vastdata.com.cn
-* Member	甘丽	本原数据	li.gan@enmotech.com
-* Member	陈泽	本原数据	ze.chen@enmotech.com
-* Member	窦尧	兴业数字金融	3397860844@qq.com
-* Member	胡娟	兴业数字金融	836583895@qq.com
-* Member	刘牌	东方通 	2319492349@qq.com
-* Member	熊灿灿	平安科技	xiongcc_1994@126.com
-* Member	张钦	商鼎科技	10980903@qq.com
-* Member	张国良	中银金科	44288252@qq.com
-* Member	江龙滔	北京思斐软件	raigor.jiang@gmail.com
-* Member	陈智明	成都海迪鑫华	2415252314@qq.com
+* Ambassador	俞翔	泰克教育	                yuxiang@tech-lab.cn
+* Ambassador	黄元霞	虚谷伟业	                huangyuanxia@xugudb.com
+* Ambassador	李真旭	云和恩墨	                zhenxu.li@enmotech.com
+* Member	佘兴彬	云和恩墨   	        xingbin.she@enmotech.com
+* Member	陈少云	云和恩墨	                shaoyun.chen@enmotech.com
+* Member	杨明翰	云和恩墨	                minghan.yang@enmotech.com
+* Member	王涛	云和恩墨	                Tao.wang@enmotech.com
+* Member	孙久江	海量数据	                sunjj@vastdata.com.cn
+* Member	舒正英	海量数据	                598546998@qq.com
+* Member	熊小红	海量数据	                xiongxh@vastdata.com.cn
+* Member	甘丽	本原数据	                li.gan@enmotech.com
+* Member	陈泽	本原数据	                ze.chen@enmotech.com
+* Member	窦尧	兴业数字金融	        3397860844@qq.com
+* Member	胡娟	兴业数字金融	         836583895@qq.com
+* Member	刘牌	东方通 	                 2319492349@qq.com
+* Member	熊灿灿	平安科技	                 xiongcc_1994@126.com
+* Member	张钦	商鼎科技	                 10980903@qq.com
+* Member	张国良	中银金科	                 44288252@qq.com
+* Member	江龙滔	北京思斐软件	        raigor.jiang@gmail.com
+* Member	陈智明	成都海迪鑫华	        2415252314@qq.com
+
+
+## 上海用户组
+* Organizer     张中阳	上海鲲鹏生态创新中心     zhangzhongyang3@huawei.com
+* Ambassador    宋少华	个人开发者	        13919682238@139.com
+* Ambassador    刘长浩	民生银行	                liuchanghao@cmbc.com.cn
+* Ambassador    刘天顺	润和软件信息技术有限公司	Ls9527@126.com
+* Member        李华	云和恩墨 	        hua.li@enmotech.com
+* Member        李欧	浪潮软件	                leo79@yeah.net
+* Member        明珠禧梅	海量数据 	        Mingzxm@vastdata.com.cn
+* Member        王钰	海量数据 	        wangyu1@vastdata.com.cn
+* Member        周游	鹰图软件技术（青岛）有限公司you.zhou@hexagon.com
+* Member        姚昕	上交所技术有限责任公司 	xyao@sse.com.cn
+* Member        田介	信元公司	                job-online@163.com
+* Member        胡自贵	云和恩墨	                zigui.hu@enmotech.com
+* Member        黄晶	海量数据 	        huangj@vastdata.com.cn
+* Member        谢金融	云和恩墨 	        jinrong.xie@enmotech.com
