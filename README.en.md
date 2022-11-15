@@ -9,5 +9,5 @@
 * Ambassador: Help others understand or use openGauss,optimize product experience on behalf of users, and enhance other users understanding of openGauss.
 
  **Welcome to oGUG** 
-<br>&nbsp;Links:https://www.wjx.cn/vm/hUtnVcG.aspx
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0428/103912_23179272_7708058.png "OGUG报名码.png")
+<br>&nbsp;Links:https://www.wjx.cn/vj/YHy5Kck.aspx#
+![输入图片说明](./img/qrcode.jpg "oGUG_qrcode.png")

@@ -8,8 +8,8 @@ openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性�
 * Ambassador：通过布道的方式帮助他人了解或使用openGauss，并代表用户优化产品体验，增进其他用户对openGauss的了解。
 
 ## 欢迎加入oGUG
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0427/155608_e122fd98_9039100.jpeg "qrcode(1).jpg")
-* 链接：https://www.wjx.cn/vm/hUtnVcG.aspx
+![输入图片说明](./img/qrcode.jpg "oGUG报名码.png")
+* 链接：https://www.wjx.cn/vj/YHy5Kck.aspx# 
 
 ## 深圳用户组
 * Organizer 海量数据 李景娥                       lije@vastdata.com.cn
