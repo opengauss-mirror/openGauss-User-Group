@@ -143,3 +143,62 @@ openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性�
 * Member        胡自贵	云和恩墨	                zigui.hu@enmotech.com
 * Member        黄晶	海量数据 	        huangj@vastdata.com.cn
 * Member        谢金融	云和恩墨 	        jinrong.xie@enmotech.com
+
+## 广州用户组
+* Organizer    石阳阳	广州创新中心	           shiyangyang@huawei.com
+* Ambassador   杨伟雄	广州天维信息技术股份有限公司  ywx209100@126.com
+* Ambassador   孟令彬	海量数据	                    m_lingbin@126.com
+* Ambassador   王杰	广东开放大学	            20879980@qq.com
+* Member       萧少聪    巨杉数据库                  xiaoshaocong@sequoiadb.com
+* Member       谢平然    粤港澳大湾区(广东)国创中心   xiepingran@ncti-gba.cn
+* Member       孙凯     北京宝兰德软件股份有限公司    kai.sun@bessystem.com
+* Member       白玥     海量数据                    576314917@qq.com
+* Member       陈瑞荣   粤港澳大湾区(广东)国创中心    chenruirong@ncti-gba.cn
+* Member       黄志刚   梅州客商银行                 kong343536@qq.com
+* Member       杨梓棋   云和恩墨                     yangziqi96@163.com
+* Member       陈俊聪   中移信息技术有限公司          cjc44020@126.com
+* Member       王铭玥   海量数据                     wangmy@vastdata.com.cn
+* Member       杨子浩	粤港澳大湾区(广东)国创中心    yangzihao@ncti-gba.cn
+
+## 贵阳用户组
+* Organizer	曲胜男	贵州省鲲鹏生态创新中心基地经理  qsnqushengnan@163.com
+* Ambassador	陆双全	大数据开发工程师	             632030286@qq.com
+* Ambassador	阎书利	云和恩墨技术顾问	             shuli.yan@enmotech.com
+* Ambassador	韩浩	海颐软件	                     2477059816@qq.com
+* Member	王贝	云和恩墨（北京）信息技术有限公司	2809411090@qq.com
+* Member	刘洪	云和恩墨-技术顾问	     liuhonggyu@126.com
+* Member	吴作鑫	北京希益丰技术	             821257771@qq.com
+* Member	任林虎	贵州黔源电力股份有限公司	     138991719@qq.com
+* Member	宗思锋	百色学院专任教师	             zongsifeng@qq.com
+
+
+## 合肥用户组
+* Organizer	戴明明	科大讯飞股份有限公司	    databbase@ustc.edu
+* Ambassador	苏昌和	个人开发者	            suchanghe@126.com
+* Ambassador	郑重珩	安徽明生恒卓科技发展有限公司   zhengzh_1106@163.com
+* Member	黄东平	中科美络科技股份有限公司	    hellohdp@qq.com
+* Member	荣世源	和信科技	                    rongshiyuan@163.com
+* Member	胡鹏	安徽省农村信用社联合社技术经理 bankhp@163.com
+* Member	李治	科大讯飞股份有限公司	    719646092@qq.com
+* Member	方正	中科美络科技股份有限公司	    891078458@qq.com
+* Member	张化敏	卫宁健康科技集团股份有限公司  chinaitpmp@163.com
+* Member	王通	安徽交控信息产业有限公司	    wangtongdba@163.com
+* Member	曾祥波	北京中电普华信息技术有限公司  zengxiangbo@126.com
+* Member	毛兆欣	合肥智能语音创新发展有限公司  zhaoxin_mao@163.com
+* Member	田大军	个人开发者	           dajun539@163.com
+* Member	李梦嘉	科大讯飞股份有限公司	   mjli6@iflytek.com
+* Member	蔡恒恒	沃趣科技	                   caihengau@163.com
+* Member	金国俊	个人开发者	           jgjun@sina.com
+* Member	孙伟	安徽晶奇网络科技有限公司	   15201344146@163.com
+* Member	谢伟	科大国创软件股份有限公司	   2440124013@qq.com
+* Member	董亚军	个人开发者	           344077676@qq.com
+* Member	汪茂法	个人开发者	           1055338194@qq.com
+* Member	徐澄宇	中通服和信科技有限公司	   1135082184@qq.com
+* Member	程起国	个人开发者	           15395112123@189.cn
+* Member	洪光玉	个人开发者	           116343798@qq.com
+* Member	王凡	个人开发者	           1543307372@qq.com
+* Member	许世成	合肥维信诺科技有限公司	   scxu98@qq.com
+* Member	张涛	个人开发者	           815383166@qq.com
+* Member	朱丽	个人开发者	           zhuli87@foxmail.com
+* Member	黄鹏	安徽赛福贝特信息技术有限公司  806844529@qq.com
+
