@@ -202,3 +202,40 @@ openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性�
 * Member	朱丽	个人开发者	           zhuli87@foxmail.com
 * Member	黄鹏	安徽赛福贝特信息技术有限公司  806844529@qq.com
 
+##沈阳用户组
+* Organizer    刘辰光   辽宁鲲鹏生态创新中心         35910646@qq.com
+* Ambassador   董涛     辽宁鲲鹏生态创新中心         dongtao13@huawei-partners.com
+* Ambassador   陈政瑀   北方实验室（沈阳）股份有限公司 chenzhyak@163.com
+* Ambassador   赵庆辉   海量数据                     zhaoqh@vastdata.com.cn
+* Ambassador   罗明     东软集团                     luo.m@neusoft.com
+* Ambassador   黄旭     海量数据                     huangxu@vastdata.com.cn
+* Ambassador   赵廷阳   海量数据                     zty6989@163.com
+* Member       袁振译   北京岳能科技                 yuanzy@bjyn.com
+* Member       田可风   辽宁荣科智维云科技            tiankefeng@bringspring.com
+* Member       崔涛     北京岳能科技                 cuit@bjyn.com
+* Member       李波     辽宁荣科智维云科技            298046437@qq.com
+* Member       李宏伟   东软集团                     lihw.neu@neusoft.com
+* Member       张昊     北方实验室（沈阳）股份有限公司 409006626@qq.com
+* Member       姜宇     个人开发者                   jiangyu731@163.com
+* Member       高然     双杨信息科技（珠海）有限公司沈阳分公司 gaoranmsn@qq.com
+* Member       常红     北京岳能科技                  changh@bjyn.com
+* Member       车连喜   沈阳邦粹科技                  chelianxi@163.com
+* Member       李莹     北京致远互联软件              271601630@qq.com
+
+## 武汉用户组
+* Organizer	王登阳	湖北鲲鹏生态创新中心	wangdengyang@huawei.com
+* Ambassador	段帅	个人开发者	        875056018@qq.com
+* Member	王成	海鑫科金	                792516999@qq.com
+* Member	殷凤娇	个人开发者	        820898397@qq.com
+* Member	段芳	海量数据	                duanfang@vastdata.com.cn
+* member	卢俊锋	华中科技大学	        1074289549@qq.com
+* member	成雪峰	海量数据	                chengxf@vastdata.com.cn
+* Member	张远真	武汉东方赛思软件	        zhyz@succez.com
+* Member	屈秀柯	联友科技	                823110460@qq.com
+* Member	叶标	合众人寿	                yekbiao@163.com
+* Member	张守帅	个人开发者	        shoushuai2002@163.com
+* Member	余聪	武汉东方赛思	        yuc@succez.com
+* Member	谢金赤	个人开发者	        xsw1988@163.com
+* Member	张智明	海量数据	                zhangzm1@vastdata.com.cn
+* Member	江小兵	海量数据	                384662452@qq.com
+
