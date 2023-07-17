@@ -131,7 +131,7 @@ openGauss User Group，简称oGUG，是一个让openGauss用户就技术特性�
 ## 上海用户组
 * Organizer     张中阳	上海鲲鹏生态创新中心     zhangzhongyang3@huawei.com
 * Ambassador    宋少华	个人开发者	        13919682238@139.com
-* Ambassador    刘长浩	民生银行	                liuchanghao@cmbc.com.cn
+* Ambassador    刘长浩	民生银行	                
 * Ambassador    刘天顺	润和软件信息技术有限公司	Ls9527@126.com
 * Member        李华	云和恩墨 	        hua.li@enmotech.com
 * Member        李欧	浪潮软件	                leo79@yeah.net
